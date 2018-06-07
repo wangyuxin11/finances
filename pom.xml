@@ -4,10 +4,4 @@
   <artifactId>finances</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <modules>
-  	<module>finances-pay</module>
-  	<module>finances-common</module>
-  	<module>finances-account</module>
-  	<module>finances-liquidation</module>
-  </modules>
 </project>
