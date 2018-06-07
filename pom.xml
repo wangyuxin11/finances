@@ -6,6 +6,8 @@
   <packaging>pom</packaging>
   <modules>
   	<module>finances-account</module>
+  	<module>finances-liquidation</module>
+  	<module>finances-pay</module>
   </modules>
   
   
