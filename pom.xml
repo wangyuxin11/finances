@@ -4,4 +4,7 @@
   <artifactId>finances</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>finances-pay</module>
+  </modules>
 </project>
