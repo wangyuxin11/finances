@@ -8,5 +8,7 @@
   </parent>
   <artifactId>finances-account</artifactId>
   <packaging>pom</packaging>
-
+  <modules>
+  	<module>finances-account-api</module>
+  </modules>
 </project>
