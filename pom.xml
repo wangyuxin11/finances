@@ -8,5 +8,6 @@
   	<module>finances-pay</module>
   	<module>finances-common</module>
   	<module>finances-account</module>
+  	<module>finances-liquidation</module>
   </modules>
 </project>
