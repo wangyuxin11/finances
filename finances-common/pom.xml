@@ -1,12 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.finances</groupId>
-  <artifactId>finances</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <parent>
+    <groupId>org.finances</groupId>
+    <artifactId>finances</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>finances-common</artifactId>
   <packaging>pom</packaging>
   <modules>
-  	<module>finances-pay</module>
-  	<module>finances-common</module>
-  	<module>finances-account</module>
+    <module>finances-common-api</module>
   </modules>
 </project>
