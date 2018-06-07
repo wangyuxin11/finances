@@ -13,5 +13,6 @@
     <module>finances-account-service</module>
     <module>finances-account-web</module>
     <module>finances-account-admin</module>
+    <module>finances-account-transaction</module>
   </modules>
 </project>
