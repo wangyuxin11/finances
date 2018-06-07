@@ -10,5 +10,6 @@
   <packaging>pom</packaging>
   <modules>
     <module>finances-common-api</module>
+    <module>finances-common-admin</module>
   </modules>
 </project>

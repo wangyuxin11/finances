@@ -12,5 +12,6 @@
     <module>finances-account-api</module>
     <module>finances-account-service</module>
     <module>finances-account-web</module>
+    <module>finances-account-admin</module>
   </modules>
 </project>
