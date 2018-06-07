@@ -7,3 +7,6 @@ spring boot 的父级配置必需，而且maven项目群需要这个配置指定
         <version>1.5.3.RELEASE</version>
         <relativePath />
     </parent>
+
+    
+maven' module project 改成war格式一直报错，需要web.xml、 其实可以不用的。
